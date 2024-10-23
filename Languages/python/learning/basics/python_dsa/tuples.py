@@ -1,0 +1,1 @@
+my_fruits = ("oranges", "tomatoes", "guavas")

@@ -1,0 +1,7 @@
+#!/usr/bin/bash 
+
+#this are user defined variables 
+
+name=daniel
+id_num=212113
+echo " the student is $name and the id number is $id_num"

@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>iamMasi</title>
+    <style>
+        body {
+            background-image: url(images/type2.jpg);
+            background-size: cover;
+            background-repeat: no-repeat;
+            animation: slide 10s infinite;
+            background-attachment: fixed;
+            margin: 0; /* Remove default body margin */
+            padding: 0; /* Remove default body padding */
+        }
+
+        @keyframes slide {
+            0% {
+                background-position: 0% 0%;
+            }
+            100% {
+                background-position: 100% 100%;
+            }
+        }
+
+        .page {
+            height: 100vh; /* Set the height of each page to full viewport height */
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            background-color: rgba(199, 198, 198, 0.8); /* Set background color with opacity */
+            color: black; /* Set text color */
+            padding: 20px; /* Add padding for content */
+            box-sizing: border-box; /* Include padding in the element's total width and height */
+        }
+
+        hr {
+            width: 50%; /* Set width of horizontal rule */
+            border: none;
+            height: 2px; /* Set the height of the horizontal rule */
+            background-color: rgb(190, 190, 190); /* Set the background color */
+            margin: 20px 0; /* Add margin for spacing */
+        }
+    </style>
+</head>
+<body>
+    <div class="page">
+        <h1>who is,</h1>
+        <h1 style="font-size: 50px;">Daniel Masi?</h1> 
+        <hr>
+    </div>
+
+    <div class="page">
+        <p>tech enthusiast,</p>
+        <hr>
+    </div>
+
+    <div class="page">
+        <p>diligent low level programmer.</p>
+        <p>skilled people's person.</p>
+        <hr>
+    </div>
+</body>
+</html>

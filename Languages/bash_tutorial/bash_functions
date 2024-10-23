@@ -1,0 +1,25 @@
+#!/usr/bin/bash 
+
+jtp (){
+    echo "welcome to bash "
+}
+
+jtp
+
+function wtp {
+    echo " welome to bashh"
+}
+
+wtp
+
+function_arguments(){
+    echo $1 
+    echo $2
+    echo $3 
+    echo $4 
+    echo $5 
+    echo $6
+}
+
+function_arguments "this" "are" "the" "arguments" "needed" "and" "extra"
+function_arguments "daniel" "masi" "orango" "mokua" "drew" "and" "evin"

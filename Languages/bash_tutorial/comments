@@ -1,0 +1,11 @@
+#!/usr/bin/bash 
+
+#this is a single line comment
+
+<<COMMENTS
+this is 
+a multi 
+line comment 
+COMMENTS
+
+echo "COMMENTS"

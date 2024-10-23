@@ -1,0 +1,10 @@
+#!/usr/bin/bash 
+#points towards the bash shell path
+
+echo "today is $(date)"
+
+echo -e "\n enter the path to directory" #what does the -e do?
+read the_path #this reads the user input and stores it in the variable the_path
+
+echo -e "\n the path has the following files and folders"
+ls $the_path

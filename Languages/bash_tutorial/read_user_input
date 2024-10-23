@@ -1,0 +1,15 @@
+#!/usr/bin/bash 
+
+#we are reading the user input
+
+echo "enter the user name "
+read first_name
+
+echo "the current user is $first_name"
+echo "$first_name is the user $user_var"  # the user_var part will not work
+echo 
+
+#we can also use this 
+
+read -p "USerName:" user_var
+echo "the userName is:" $user_var

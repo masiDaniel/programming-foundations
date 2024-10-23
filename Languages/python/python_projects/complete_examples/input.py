@@ -1,0 +1,6 @@
+name = input(" enter your name ")
+age = int(input("enter your age "))
+number = int(input("enter yout phone number "))
+print(name)
+print(age + 30)
+print(number)

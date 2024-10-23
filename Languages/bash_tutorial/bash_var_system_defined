@@ -1,0 +1,9 @@
+#!/usr/bin/bash
+
+#testing the system defined variables using a script
+#what are system defined variables?
+
+echo $PWD
+echo $BASH 
+echo $OSTYPE
+echo $LOGNAME
