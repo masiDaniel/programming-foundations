@@ -1,0 +1,15 @@
+/home/azte-c/CodeByMasi/programming-foundations/Languages/C#/myFirstApp/bin/Debug/net7.0/myFirstApp
+/home/azte-c/CodeByMasi/programming-foundations/Languages/C#/myFirstApp/bin/Debug/net7.0/myFirstApp.deps.json
+/home/azte-c/CodeByMasi/programming-foundations/Languages/C#/myFirstApp/bin/Debug/net7.0/myFirstApp.runtimeconfig.json
+/home/azte-c/CodeByMasi/programming-foundations/Languages/C#/myFirstApp/bin/Debug/net7.0/myFirstApp.dll
+/home/azte-c/CodeByMasi/programming-foundations/Languages/C#/myFirstApp/bin/Debug/net7.0/myFirstApp.pdb
+/home/azte-c/CodeByMasi/programming-foundations/Languages/C#/myFirstApp/obj/Debug/net7.0/myFirstApp.csproj.AssemblyReference.cache
+/home/azte-c/CodeByMasi/programming-foundations/Languages/C#/myFirstApp/obj/Debug/net7.0/myFirstApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/azte-c/CodeByMasi/programming-foundations/Languages/C#/myFirstApp/obj/Debug/net7.0/myFirstApp.AssemblyInfoInputs.cache
+/home/azte-c/CodeByMasi/programming-foundations/Languages/C#/myFirstApp/obj/Debug/net7.0/myFirstApp.AssemblyInfo.cs
+/home/azte-c/CodeByMasi/programming-foundations/Languages/C#/myFirstApp/obj/Debug/net7.0/myFirstApp.csproj.CoreCompileInputs.cache
+/home/azte-c/CodeByMasi/programming-foundations/Languages/C#/myFirstApp/obj/Debug/net7.0/myFirstApp.dll
+/home/azte-c/CodeByMasi/programming-foundations/Languages/C#/myFirstApp/obj/Debug/net7.0/refint/myFirstApp.dll
+/home/azte-c/CodeByMasi/programming-foundations/Languages/C#/myFirstApp/obj/Debug/net7.0/myFirstApp.pdb
+/home/azte-c/CodeByMasi/programming-foundations/Languages/C#/myFirstApp/obj/Debug/net7.0/myFirstApp.genruntimeconfig.cache
+/home/azte-c/CodeByMasi/programming-foundations/Languages/C#/myFirstApp/obj/Debug/net7.0/ref/myFirstApp.dll
