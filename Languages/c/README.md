@@ -1,0 +1,1 @@
+Lets give into understanding the c language in all its glory, feel free to join and contribute to this journey.
