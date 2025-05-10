@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "formidable": "^3.5.2",
-    "upper-case": "^3.0.0"
-  }
-}
