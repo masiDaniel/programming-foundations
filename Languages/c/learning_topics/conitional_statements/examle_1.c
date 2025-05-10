@@ -2,6 +2,8 @@
 #include <string.h>
 
 void day_of_week();
+void while_loops();
+void for_loops();
 
 int main(){
 
@@ -38,6 +40,10 @@ int main(){
     }
 
     day_of_week(5);
+
+    while_loops();
+
+    for_loops();
     return 0;
 }
 
@@ -71,8 +77,59 @@ void day_of_week(int day){
 }
 
 void job_category(char* job){
+
     /**
      * i wanted to filter using a switch satement the various jobs but im gettign an error that it olnly works with integers 
      * do research on that
     */
+}
+
+
+void while_loops(){
+    /**
+     * loops execute a block of code as long as a condition is reached
+     * while loops -  loops through a block of code as long as the specified codition is true
+     * do/while - this executes the code once, then checks if the condition is true, then repeat as long as it is true
+     */
+
+     int number = 0;
+     int age = 5;
+     while (number < 5){
+        printf("this is the number: %d\n", number);
+        number++;
+     }
+
+     do {
+        age++;
+        printf("the child is insured at age :%d\n", age);
+
+     }while(age < 25);
+}
+
+void for_loops(){
+/**
+ * when ou know exactly how many times you want to run the block of code you use a for loop
+ * 
+ */
+
+ int number ;
+ 
+
+ for (number = 0; number <10; number++){
+    printf("this is the number %d\n", number);
+ }
+
+ // nested loops 
+ int i, j;
+
+ for (i = 0; i <2 ; i++){
+
+    printf("this is i{%d} on the outside\n", i);
+
+    for (j =0; j <3; j++)
+    {
+        printf("\tthis is j{%d} on the inside\n", j);   
+    }
+ }
+
 }
